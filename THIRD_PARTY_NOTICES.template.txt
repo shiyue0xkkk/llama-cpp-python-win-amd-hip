@@ -1,0 +1,10 @@
+Third-party notices template
+
+Do not publish this template as completed notices. Populate only after verifying the exact source/version and license for each shipped component.
+
+- llama-cpp-python: [exact version, source commit, license text/attribution]
+- llama.cpp / ggml: [exact revision, license text/attribution]
+- AMD HIP / ROCm libraries: [each included library, version, license, required notices]
+- LLVM / Clang runtime components: [each included component, version, license, required notices]
+- Microsoft runtime components, if any: [components and required notices]
+- Other bundled components: [component, version, source, license, required notices]
